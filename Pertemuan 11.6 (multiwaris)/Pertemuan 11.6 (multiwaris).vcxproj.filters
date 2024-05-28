@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pertemuan 11.6 (multiwaris).cpp">
+    <ClCompile Include="Pertemuan 11.7 %28multiwaris%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

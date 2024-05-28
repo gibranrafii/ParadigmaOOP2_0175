@@ -24,6 +24,7 @@
     <ProjectGuid>{6de14e1b-7b10-4034-8d02-23604321cfaf}</ProjectGuid>
     <RootNamespace>Pertemuan116multiwaris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Pertemuan 11.7 (multiwaris)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Pertemuan 11.6 (multiwaris).cpp" />
+    <ClCompile Include="Pertemuan 11.7 %28multiwaris%29.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
