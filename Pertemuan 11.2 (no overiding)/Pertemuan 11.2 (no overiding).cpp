@@ -13,7 +13,7 @@ public:
     }
 };
 
-class derivedClass : public baseClass 
+class derivedClass  : public baseClass 
 {
 public:
     void perkenalan() {
@@ -23,5 +23,8 @@ public:
 
 int main() 
 {
+    derivedClass a;
+    a.perkenalan();
 
+    return 0;
 }
