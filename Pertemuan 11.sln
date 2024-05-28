@@ -15,7 +15,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 11.5 (abstraksi)"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 11.6 (abstraksi header)", "Pertemuan 11.6 (abstraksi header)\Pertemuan 11.6 (abstraksi header).vcxproj", "{B243A383-A0EE-4759-AE71-37E273C515C3}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 11.6 (multiwaris)", "Pertemuan 11.6 (multiwaris)\Pertemuan 11.6 (multiwaris).vcxproj", "{6DE14E1B-7B10-4034-8D02-23604321CFAF}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 11.7 (multiwaris)", "Pertemuan 11.6 (multiwaris)\Pertemuan 11.6 (multiwaris).vcxproj", "{6DE14E1B-7B10-4034-8D02-23604321CFAF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pertemuan 11.8 (solveMultiwaris)", "Pertemuan 11.8 (solveMultiwaris)\Pertemuan 11.8 (solveMultiwaris).vcxproj", "{EF454D58-B66A-496E-8855-2CF449105C55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{6DE14E1B-7B10-4034-8D02-23604321CFAF}.Release|x64.Build.0 = Release|x64
 		{6DE14E1B-7B10-4034-8D02-23604321CFAF}.Release|x86.ActiveCfg = Release|Win32
 		{6DE14E1B-7B10-4034-8D02-23604321CFAF}.Release|x86.Build.0 = Release|Win32
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Debug|x64.ActiveCfg = Debug|x64
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Debug|x64.Build.0 = Debug|x64
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Debug|x86.ActiveCfg = Debug|Win32
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Debug|x86.Build.0 = Debug|Win32
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Release|x64.ActiveCfg = Release|x64
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Release|x64.Build.0 = Release|x64
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Release|x86.ActiveCfg = Release|Win32
+		{EF454D58-B66A-496E-8855-2CF449105C55}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
